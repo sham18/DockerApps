@@ -1,0 +1,3 @@
+[submodule "basic-node"]
+	path = basic-node
+	url = git@github.paypal.com:nevpatel/Docker-CI.git
